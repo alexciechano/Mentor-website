@@ -6,8 +6,7 @@
 
 .main{
     width:100%;
-    background: linear-gradient(to top,rbga(0,0,0,0,5)50%,rbga(0,0,0,0)),url(https://akpsi.org/wp-content/uploads/2021/12/Find-a-Mentor-Stock-Photo-scaled.jpeg);
-    background-position: center;
+    background: linear-gradient(to top,rbga(0,0,0,0,5)50%,rbga(0,0,0,0)),url(mentor_photo.jpeg);
     background-size: cover;
     height: 109vh;
 }
