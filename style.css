@@ -55,7 +55,7 @@ ul li {
 
 ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #000000;
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s ease-in-out;
@@ -79,7 +79,7 @@ ul li a:hover {
     background: transparent;
     border: 1px solid #ff7200;
     margin-top: 13px;
-    color: #fff;
+    color: #ffffff;
     border-right: none;
     font-size: 16px;
     float: left;
@@ -113,7 +113,7 @@ ul li a:hover {
     width: 1200px;
     height: auto;
     margin: auto;
-    color: #fff;
+    color: #000000;
     position: relative;
 }
 
@@ -155,7 +155,7 @@ ul li a:hover {
 }
 
 .cn:hover{
-    background-color: #fff;
+    background-color: #000000;
 
 }
 
@@ -181,7 +181,7 @@ ul li a:hover {
     text-align: center;
     color: #ff7200;
     font-size: 22px;
-    background-color: #fff;
+    background-color: #000000;
     border-radius: 10px;
     margin: 2px;
     padding: 8px;
@@ -195,7 +195,7 @@ ul li a:hover {
     border-top: none;
     border-right: none;
     border-left: none;
-    color: #fff;
+    color: #fefdfd;
     font-size: 15px;
     letter-spacing: 1px;
     margin-top: 30px;
@@ -208,7 +208,7 @@ ul li a:hover {
 }
 
 ::placeholder{
-    color: #fff;
+    color: #ffffff;
     font-family: Arial;
 }
 
