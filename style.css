@@ -6,7 +6,7 @@
 
 .main {
     width:100%;
-    background: linear-gradient(to top, rgba(255, 255, 255, 0)50%,rgba(255, 255, 255, 0)50%), url(mentor_second.png);
+    background: linear-gradient(to top, rgba(21, 16, 16, 0.563)50%,rgba(21, 16, 16, 0.563)50%), url(mentor_second.png);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -112,7 +112,7 @@ ul li a:hover{
     width: 1200px;
     height: auto;
     margin: auto;
-    color: #000000;
+    color: #fff;
     position: relative;
 }
 
@@ -128,13 +128,13 @@ ul li a:hover{
 .content h1{
     font-family: 'Time New Roman ';
     font-size: 50px;
-    padding-left: 20px;
+    padding-left: 30px;
     margin-top: 9%;
     letter-spacing: 2px;
 }
 
 .content .cn{
-    width: 160px;
+    width: 100px;
     height: 40px;
     background: #ff7200;
     border: none;
