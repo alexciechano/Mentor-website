@@ -61,7 +61,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 
-ul li a:hover {
+ul li a:hover{
     color: #ff7200;
 
 }
@@ -72,7 +72,7 @@ ul li a:hover {
     margin-left: 270px;
 }
 
-.srch {
+.srch{
     font-family:'Times New Roman';
     width: 200px;
     height: 40px;
@@ -106,7 +106,7 @@ ul li a:hover {
 
 
 .srch:focus{
-    outline:none;
+    outline: none;
 }
 
 .content{
