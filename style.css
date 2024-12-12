@@ -6,7 +6,11 @@
 
 .main{
     width:100%;
+<<<<<<< HEAD
     background: linear-gradient(to top, rgba(255, 255, 255, 0)50%,rgba(255, 255, 255, 0.5)50%), url(mentor_photo.jpeg);
+=======
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.5)50%,rgba(255, 255, 255, 0.5)50%), url(mentor_third.avif);
+>>>>>>> cad38a3a39a9ee846d524ae9f2f31799038e1d8c
         background-position: center;
     background-size: cover;
     height: 109vh;
