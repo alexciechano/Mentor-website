@@ -78,7 +78,7 @@ ul li a:hover{
     background: transparent;
     border: 1px solid #ff7200;
     margin-top: 13px;
-    color: #fff;
+    color: #ffffff;
     border-right: none;
     font-size: 16px;
     float: left;
@@ -113,7 +113,7 @@ ul li a:hover{
     height: auto;
     margin: auto;
     color: #fff }
-
+    
 .content .par{
     padding-left: 20px;
     padding-bottom: 25px;
@@ -166,8 +166,8 @@ ul li a:hover{
     height:380px;
     background: linear-gradient(to top, rgb(0, 0, 0)50%);
     position: absolute;
-    top: -25px;
-    left: 870px;
+    top: 200px;
+    left: 1027px;
     border-radius: 10px;
     padding: 25px;
 }
