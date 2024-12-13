@@ -22,7 +22,7 @@ body{
 .content{
     text-align: center;
     padding: 40px;
-    color: #fff;
+    color: #000000;
     border-radius: 25px;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
