@@ -19,7 +19,7 @@
 
 .icon {
     width: 200px;
-    float: left;
+    float: left;    
     height: 70px;
 }
 .logo {
@@ -35,7 +35,6 @@
     width: 400px;
     float: left;
     height: 70px;
-
 }
 
 ul {
@@ -88,7 +87,7 @@ ul li a:hover{
 }
  
 .btn{
-    width: 100%;
+    width: 120px;
     height: 40px;
     background: #ff7200;
     border: 2px solid #ff7200;
@@ -108,7 +107,7 @@ ul li a:hover{
     outline: none;
 }*/
 
-.content{
+.content {
     width: 1200px;
     height: auto;
     margin: auto;
@@ -144,18 +143,19 @@ ul li a:hover{
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer;
+    transition: .4s ease ;
 }
 
 
 .content .cn a{
     text-decoration: none;
-    color: #ffffff;
-    transition: .3 ease;
+    color: #000;
+    transition: .3s ease;
 
 }
 
 .cn:hover{
-    background-color: #ff7200;
+    background-color: #fff;
 
 }
 
