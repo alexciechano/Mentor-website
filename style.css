@@ -19,7 +19,7 @@
 
 .icon {
     width: 200px;
-    float: left;
+    float: left;    
     height: 70px;
 }
 .logo {
@@ -35,7 +35,6 @@
     width: 400px;
     float: left;
     height: 70px;
-
 }
 
 ul {
@@ -72,7 +71,7 @@ ul li a:hover{
 }
 
 .srch{
-    font-family:'Times New Roman';
+    font-family: Arial;
     width: 150px;
     height: 40px;
     background: transparent;
@@ -88,7 +87,7 @@ ul li a:hover{
 }
  
 .btn{
-    width: 100%;
+    width: 120px;
     height: 40px;
     background: #ff7200;
     border: 2px solid #ff7200;
@@ -108,11 +107,14 @@ ul li a:hover{
     outline: none;
 }
 
-.content{
+.content {
     width: 1200px;
     height: auto;
     margin: auto;
-    color: #fff }
+    color: #fff;
+    position: relative;
+    
+ }
     
 .content .par{
     padding-left: 20px;
@@ -141,18 +143,19 @@ ul li a:hover{
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer;
+    transition: .4s ease ;
 }
 
 
 .content .cn a{
     text-decoration: none;
-    color: #ffffff;
-    transition: .3 ease;
+    color: #000;
+    transition: .3s ease;
 
 }
 
 .cn:hover{
-    background-color: #ff7200;
+    background-color: #fff;
 
 }
 
@@ -164,7 +167,7 @@ ul li a:hover{
 .form{
     width: 250px;
     height:380px;
-    background: linear-gradient(to top, rgb(0, 0, 0)50%);
+    background: linear-gradient(to top,  rgb(0, 0, 0)50%, rgb(0, 0, 0)50%);
     position: absolute;
     top: 200px;
     left: 1027px;
@@ -172,13 +175,13 @@ ul li a:hover{
     padding: 25px;
 }
 
-.form h2{
+.form h2 {
     width: 220px;
     font-family: sans-serif;
     text-align: center;
     color: #ff7200;
     font-size: 22px;
-    background-color: #ffffff;
+    background-color: #fff;
     border-radius: 10px;
     margin: 2px;
     padding: 8px;
