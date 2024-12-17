@@ -166,11 +166,11 @@ ul li a:hover{
 
 .form{
     width: 250px;
-    height:380px;
-    background: linear-gradient(to top,  rgb(0, 0, 0)50%, rgb(0, 0, 0)50%);
+    height:420px;
+    background: linear-gradient(to top,  rgba(240, 233, 211, 0.503)50%, rgb(240, 233, 211,0.503)50%);
     position: absolute;
-    top: 200px;
-    left: 1027px;
+    top: 25px;
+    left: 900px;
     border-radius: 10px;
     padding: 25px;
 }
