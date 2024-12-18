@@ -151,6 +151,7 @@ ul li a:hover{
 }
 
 .details{
+display: inline-block;
 padding-top: 100px;
 padding-left: 75px;
 font-size: 15px;
@@ -178,3 +179,13 @@ padding-right: 20px;
     font-style: italic;
 }
 
+.progress{
+    display: inline-block;
+    padding: 10px;
+    text-align: right;
+    background-color: white;
+    width: 45%;
+    border-style: double;
+    border-width: 1cap;
+    font-size: 17px;
+}
