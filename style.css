@@ -22,13 +22,15 @@
     float: left;    
     height: 70px;
 }
-.logo {
+.icon a {
+    font-family: 'Time New Roman ';
     color: chocolate;
     font-size: 36px;
-    font-family: Arial;
     padding-left: 20px;
     float: left;
     padding-top: 10px ;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .menu {
