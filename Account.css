@@ -33,6 +33,18 @@ body{
     float: left;
     height: 70px;
 }
+
+.icon a {
+    font-family: 'Time New Roman ';
+    color: chocolate;
+    font-size: 36px;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px ;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .logo {
     color: chocolate;
     font-size: 36px;
