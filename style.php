@@ -9,7 +9,7 @@ require_once 'includes/signup/signup_view.inc.php';
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width initial-scale=1.0">
-  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="index.html">
   <title>Home</title>
 </head>
 
@@ -21,7 +21,7 @@ require_once 'includes/signup/signup_view.inc.php';
   </h3>
 
   <?php
-  if (!isset($_SESSION["user_id"])) { ?>
+  if (!isset($_SESSION["email_id"])) { ?>
     <h3>Login</h3>
 
     <form action="includes/login.inc.php" method="post">
